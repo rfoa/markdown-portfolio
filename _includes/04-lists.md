@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+* Item 1 da lista
+* Item 2 da lista
+* Item 3 da lista
